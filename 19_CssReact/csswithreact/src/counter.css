@@ -1,0 +1,15 @@
+.counter{
+    font-size: 1rem;
+    padding: .7rem;
+    background-color: #CCC;
+    display: inline-block;
+    border: 1px solid #eee;
+}
+.btn{
+    background-color: #222;
+    color: white;
+    border: none;
+    border: 1px solid #ccc;
+    padding: .3rem;
+    border-radius: .3rem;
+}
